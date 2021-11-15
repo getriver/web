@@ -24,3 +24,11 @@
 /.node_modules.ember-try/
 /bower.json.ember-try
 /package.json.ember-try
+
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
