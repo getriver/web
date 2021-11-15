@@ -5,7 +5,7 @@ Your actually good microblogging community.
 ## Requirements
 
 - Node.js 14.x
-- Yarn 1.x
+- Yarn 3.x
 - Ember CLI
 
 ## License
