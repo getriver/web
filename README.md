@@ -1,6 +1,6 @@
 # River
 
-Your actually good microblogging community.
+The [Ember.js](https://emberjs.com) frontend for River.
 
 ## Requirements
 
