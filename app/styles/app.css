@@ -1,0 +1,37 @@
+/* The main stylesheet */
+
+/* Import Tailwind */
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* Define some default styles */
+@layer base {
+  body {
+    @apply bg-gray-800 min-h-full text-gray-100;
+  }
+
+  h1 {
+    @apply font-bold text-6xl;
+  }
+
+  h2 {
+    @apply font-bold text-5xl;
+  }
+
+  h3 {
+    @apply font-bold text-4xl;
+  }
+
+  h4 {
+    @apply font-bold text-3xl;
+  }
+
+  h5 {
+    @apply font-bold text-2xl;
+  }
+
+  h6 {
+    @apply font-bold text-xl;
+  }
+}
